@@ -1,23 +1,24 @@
 # Botdiscord-slashcommand
 Source code to make Bot discord<br/>
 ---------------------------Setup project--------------------------<br/>
-1.install `discord.js`, `@discordjs/voice`, `@discordjs/builders`
+1.install [Node.js](https://nodejs.org/en)<br/>
+2.install `discord.js`, `@discordjs/voice`, `@discordjs/builders`
 ```npm
 npm i discord.js
 npm i @discordjs/voice
 npm i @discordjs/builders
 ```
-2.Create project in dir BOT
+3.Create project in dir BOT
 ```npm
 npm init -y
 ```
-3.Change `main` in `package.json` link to `DiscordMainBot.js`
+4.Change `main` in `package.json` link to `DiscordMainBot.js`
 ```json
 "main": "./src/DiscordMainBot",
 ```
-4.Replace Bot Token in `auth.json` <br/>
-5.Replace ClientID in `Clientid.json`<br/>
-6.Ativate Bot you can run`run.bat` or type `node .` in terminal<br/>
+5.Replace Bot Token in `auth.json` <br/>
+6.Replace ClientID in `Clientid.json`<br/>
+7.Ativate Bot you can run`run.bat` or type `node .` in terminal<br/>
 
 You can Create Slashcommand in `SlashCommand.js` and Create Message reply in `createmessage.js`<br/>
 ----------------------------Setup Bot-------------------------------<br/>
