@@ -31,5 +31,5 @@ You can Create Slashcommand in `SlashCommand.js` and Create Message reply in `cr
 Done. :)
 
 Document <br/>
-[Discord.js Document](https://discord.js.org/#/docs/discord.js/main/general/welcome)
+[Discord.js Document](https://discord.js.org/#/docs/discord.js/main/general/welcome)<br/>
 [Discord Application Document](https://discord.com/developers/docs/intro)
