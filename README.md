@@ -24,7 +24,7 @@ You can Create Slashcommand in `SlashCommand.js` and Create Message reply in `cr
 1.Go to [Discord devloper portal](https://discord.com/developers/applications) and Create application <br/>
 2.Select application and Change name <br/>
 3.Go to OAuth2 Client ID in here<br/>
-4.Go to `Bot` click Reset token and copy it <br/>
+4.Go to `Bot` click Add bot button and click Reset token and copy it <br/>
 5.How to invite Bot to server? <br/>Go to OAuth2 and click URL Generator Click Bot Check bot and Click Administrator check box Copy URL in bottom website<br/>
 6 Go to Bot again and scroll down Enable `PUBLIC BOT` `PRESENCE INTENT` `SERVER MEMBERS INTENT` `MESSAGE CONTENT INTENT`<br/>
 -----------------------------------------------------------------------<br/>
