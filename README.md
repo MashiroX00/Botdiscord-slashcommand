@@ -16,7 +16,8 @@ npm init -y
 "main": "./src/DiscordMainBot",
 ```
 4.Replace Bot Token in `auth.json` <br/>
-5.Replace ClientID in `Clientid.json`
+5.Replace ClientID in `Clientid.json`<br/>
+6.Ativate Bot you can run`run.bat` or type `node .` in terminal<br/>
 
 You can Create Slashcommand in `SlashCommand.js` and Create Message reply in `createmessage.js`<br/>
 ----------------------------Setup Bot-------------------------------<br/>
